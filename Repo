@@ -1,10 +1,10 @@
 {
   "name": "My Favourite IPA",
   "identifier": "com.straight-tamago.misakaRS",
-  "sourceURL": "https://raw.githubusercontent.com/jackson392/Misaka/main/Repo",
+  "sourceURL": "https://raw.githubusercontent.com/jackson392/My-favourite-IPAs/main/Repo",
   "apps": [
     {
-      "name": "Misaka",
+      "name": "Uyou+",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "straight-tamago",
       "subtitle": "Package Manager for non jailbreak devices.",
